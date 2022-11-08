@@ -61,7 +61,13 @@ confusion
 ```
 
 ## Output:
+![Placement and salary data](dataset.png)
+![null value](null.png)
+![Data-status](status.png)
+![y-prediction](predarray.png)
+![confussion-array](confusionarray.png)
 ![the Logistic Regression Model to Predict the Placement Status of Student](logreg.png)
+
 
 
 ## Result:
