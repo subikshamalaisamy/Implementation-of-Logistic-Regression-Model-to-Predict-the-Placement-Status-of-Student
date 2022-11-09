@@ -70,6 +70,7 @@ confusion
 ![y-prediction](predarray.png)
 ![confussion-array](confusionarray.png)
 ![the Logistic Regression Model to Predict the Placement Status of Student](logreg.png)
+![Classification report and prediction of LR](lr.png)
 
 
 
